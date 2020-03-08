@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buch der Schatten</string>
+
+    <string name="coven_default_logo_url"></string>
+
+    <string name="beta_dialog_title">Info</string>
+    <string name="beta_participate">Nimm am Beta-Programm teil</string>
+    <string name="beta_dialog_text">Vorsicht! Die Beta-Version erhöht die Wahrscheinlichkeit von Fehlern. Wenn Du am Beta-Programm teilnimmst, stelle sicher, dass Dein Buch-Backup immer auf dem neuesten Stand ist.</string>
+    <string name="coven_join_code_info">Zirkel-Zugangscode</string>
+
+    <string name="Yes">Ja</string>
+    <string name="No">Nein</string>
+    <string name="Back">Zurück</string>
+    <string name="Choose">Wähle</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Abbrechen</string>
+    <string name="Page">Seite</string>
+    <string name="Save">Speichern</string>
+    <string name="Restart">Neustarten</string>
+    <string name="Ban">Gebannt</string>
+    <string name="Unban">Verbannung aufheben</string>
+    <string name="Remove">Entfernen</string>
+    <string name="Promote">Befördern</string>
+    <string name="Demote">Degradieren</string>
+    <string name="Rank">Rang</string>
+    <string name="Administrator">Administrator</string>
+    <string name="Moderator">Moderator</string>
+    <string name="User">Benutzer</string>
+    <string name="Chat">Chat</string>
+    <string name="Blacklist">Schwarze Liste</string>
+    <string name="Share">Teilen</string>
+    <string name="Profile">Profil</string>
+    <string name="Edit">Bearbeiten</string>
+    <string name="Member">Mitglieder</string>
+    <string name="Settings">Einstellungen</string>
+    <string name="Coven">Zirkel</string>
+    <string name="Covens">Zirkel</string>
+    <string name="enabled">einschalten</string>
+    <string name="disabled">ausschalten</string>
+    <string name="Layout">Layout</string>
+    <string name="Print">Drucken</string>
+    <string name="Founder">Gründer</string>
+    <string name="Support">Support</string>
+    <string name="Contents">Inhaltsverzeichnis</string>
+
+    <string name="empty_title">Ohne Überschrift</string>
+    <string name="all_covens">Alle Zirkel</string>
+    <string name="comming_soon">Kommt demnächst</string>
+    <string name="please_wait">Bitte warten</string>
+    <string name="add_page">Seite hinzufügen...</string>
+    <string name="loading_data">Lade daten, bitte warten...</string>
+    <string name="show_join_code">Lasse die Person, die du dem Zirkel hinzufügen möchtest, diesen Code scannen</string>
+
+    <string name="coven_settings">Zirkel-Einstellungen</string>
+    <string name="coven_settings_who_can_invite">Welche Nutzergruppe darf neue Mitglieder hinzufügen</string>
+
+    <!-- Helper -->
+    <string name="alert_image_content_description">Alert Image</string>
+
+    <!-- Notifications -->
+    <string name="notification_samhain_title">Bald ist Samhain!</string>
+    <string name="notification_samhain_text">Datum: 31. Oktober oder der 11. Neumond nach Jul</string>
+
+    <string name="notification_jul_title">Jul</string>
+    <string name="notification_jul_text">Heute ist Jul!</string>
+
+    <string name="notification_imbolc_title">Bald ist Imbolc!</string>
+    <string name="notification_imbolc_text">Datum: Erster Februar oder der 2. zunehmende Halbmond nach Jul</string>
+
+    <string name="notification_ostara_title">Ostara</string>
+    <string name="notification_ostara_text">Heute ist Ostara!</string>
+
+    <string name="notification_beltane_title">Bald ist Beltane!</string>
+    <string name="notification_beltane_text">Datum: 30. April oder der 6. Vollmond nach Jul</string>
+
+    <string name="notification_litha_title">Litha</string>
+    <string name="notification_litha_text">Heute is Litha!</string>
+
+    <string name="notification_lughnasadh_title">Bald ist Lughnasadh!</string>
+    <string name="notification_lughnasadh_text">Datum: 2. August oder der 8. zunehmende Halbmond nach Jul</string>
+
+    <string name="notification_mabon_title">Mabon</string>
+    <string name="notification_mabon_text">Heute ist Mabon!</string>
+
+    <string name="notification_fullmoon_title">Vollmond!</string>
+    <string name="notification_fullmoon_text">Heute ist Vollmond</string>
+    <string name="notification_newmoon_title">Neumond!</string>
+    <string name="notification_newmoon_text">Heute ist Neumond</string>
+    <string name="notification_chat_new_title">Neue Nachrichten</string>
+    <string name="notification_chat_new_text">In deinem Zirkel gibt es neue Nachrichten</string>
+
+    <string name="dialog_new_failed">Die Nachricht konnte nicht übermittelt werden.</string>
+    <string name="insert_coven_logo_url">URL des Zirkellogos einfügen</string>
+    <string name="upload_image_link_text">Lade das Logo auf imgbb.com hoch</string>
+
+    <string name="toast_auto_backup_done">Die Änderungen wurden in der Backup-Datei gespeichert</string>
+    <string name="toast_auto_backup_failed">Automatisches Backup fehlgeschlagen, bitte überprüfe deine Backup-Datei</string>
+
+    <string name="chat_banned_title">GEBANNT!</string>
+    <string name="chat_banned_text">Du wurdest aus dem Chat verbannt.</string>
+    <string name="chat_loading_text">Lade...</string>
+    <string name="chat_message_sent">Nachricht verschickt!</string>
+    <string name="chat_message_to_long">Nachricht zu lang</string>
+    <string name="chat_message_copied_to_clipboard">Nachricht wurde in die Zwischenablage gelegt</string>
+
+    <string name="chatname_public">Wildnis</string>
+    <string name="chatname_unknown">Chat der Verbannten</string>
+
+    <string name="set_page_name">Seitenname festlegen</string>
+
+    <string name="set_witch_name">Wähle deinen Hexennamen</string>
+    <string name="unknown_witch">unbekannte Hexe</string>
+
+    <string name="insert_image_link">Bild-URL einfügen</string>
+    <string name="insert_hyperlink_text">Link-Text einfügen</string>
+    <string name="insert_hyperlink_url">URL einfügen</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_url">Youtube URL</string>
+
+
+    <string name="share_title">Buch der Schatten</string>
+    <string name="share_text">Hol dir das Buch der Schatten im Google Play Store und komm in meinen Zirkel: https://play.google.com/store/apps/details?id=de.alkhemeia.bookofshadows</string>
+
+    <string name="editor_first_upload_image_title">Warnung!</string>
+    <string name="editor_first_upload_image_text">Bilder werden nicht ins Backup aufgenommen, bitte sichere Bilder selbst.</string>
+
+    <string name="billing_purchase_choose_price">Wähle deinen Preis und unterstütze die Entwicklung am Buch der Schatten. Als gegenleistung wird die Werbung in der App für dich deaktiviert.</string>
+
+    <string name="support_info">Bitte wähle deine E-Mail App nach dem Click auf senden</string>
+    <string name="support_text_top">Ist ein Fehler in der App aufgetreten oder hast du ein Problem? Schicke mir doch bitte eine Nachricht und ich werde mich darum kümmern.</string>
+    <string name="support_message_forwarded">Die Nachricht wurde an deine E-Mail App weitergeleitet. Vielen Dank :)</string>
+
+    <!-- popups -->
+    <string name="popup_contents">Inhaltsverzeichnis</string>
+    <string name="popup_page_add">Seite hinzufügen</string>
+    <string name="popup_page_move">Seite verschieben</string>
+    <string name="popup_page_import">Seite importieren</string>
+    <string name="popup_page_send">Seite exportieren</string>
+    <string name="popup_print">Seite Drucken</string>
+    <string name="popup_coven">Zirkel</string>
+    <string name="popup_coven_chat">Zirkel-Chat</string>
+    <string name="popup_public_chat">Globaler Chat</string>
+
+    <!-- editor -->
+    <string name="hint_headline">Überschrift</string>
+    <string name="textSize">Textgröße</string>
+    <string name="textColor">Textfarbe</string>
+    <string name="textBold">Text fett</string>
+    <string name="textItalic">Text kursiv</string>
+    <string name="textStrike">Text durchgestrichen</string>
+    <string name="textAlign">Textausrichung</string>
+    <string name="confirmButton">Bestätigen</string>
+    <string name="cancelButton">Abbrechen</string>
+    <string name="ImageUpload">Bild hochladen</string>
+    <string name="videoUpload">Video hochladen</string>
+
+    <!-- alkhemeia.utils -->
+    <string name="alkhemeia_utils_account_sign_in_with_google_text">TODO: Sign in text</string>
+    <string name="alkhemeia_utils_account_sign_in_with_google_button">Mit Google einloggen</string>
+    <string name="alkhemeia_utils_ads_please_wait">Bitte warte einen Moment</string>
+    <string name="alkhemeia_utils_billing_purchase_ads_title">Werbung abschalten</string>
+    <string name="alkhemeia_utils_billing_no_ads_description">Get rid of annoying ads.</string>
+    <string name="alkhemeia_utils_billing_disable_ads">Werbung abschalten</string>
+    <string name="alkhemeia_utils_billing_per_month">pro Monat</string>
+    <string name="alkhemeia_utils_billing_purchase_success">Kauf erfolgreich, vielen Dank!</string>
+    <string name="alkhemeia_utils_billing_purchase_canceled">Kauf abgebrochen.</string>
+    <string name="alkhemeia_utils_billing_purchase_error">Etwas ist schief gegangen :/</string>
+    <!-- ............... -->
+
+    <string name="profile_create_title">Mit Google Account verbinden</string>
+    <string name="profile_create_text">Mit google account verbinden um alle features nutzen zu können?</string>
+    <string name="profile_no_member">Du hast keinen Zirkel.</string>
+    <string name="profile_coven_join">Zirkel beitreten</string>
+    <string name="coven_create">Zirkel erstellen</string>
+    <string name="coven_invalid_name">Ungültiger Zirkel-Name</string>
+    <string name="profile_coven_create_hint">Zirkel-Name eingeben</string>
+    <string name="profile_coven_name_edit">Zirkel-Namen bearbeiten</string>
+    <string name="profile_coven_name_edit_hint">Zirkel-Name eingeben</string>
+    <string name="profile_coven_join_code">Einladen</string>
+    <string name="profile_coven_not_found">Konnte Zirkel nicht finden</string>
+    <string name="profile_leave_coven">Zirkel verlassen</string>
+    <string name="profile_are_you_sure_leave">Bist du sicher, dass du den Zirkel verlassen möchtest?</string>
+    <string name="profile_to_admin">zu Administrator</string>
+    <string name="profile_to_moderator">zu Moderator</string>
+    <string name="profile_to_user">zu Benutzer</string>
+    <string name="choose_email">E-Mail App wählen</string>
+    <string name="support_ticket_subject_prefix">Support Ticket:</string>
+    <string name="signed_out_user">signed out user</string>
+
+    <string name="blacklist_remove">Von Schwarzer-Liste entfernen?</string>
+    <string name="blacklist_from_blacklist">von Schwarzer-Liste?</string>
+
+    <string name="please_restart_app">Bitte die App neustarten.</string>
+
+    <string name="book_move_page">Verschieben nach Seite</string>
+
+    <string name="editor_exit">Editor beenden?</string>
+    <string name="editor_clear">Editor säubern?</string>
+    <string name="editor_are_you_sure_exit">Bist du sicher, dass du den Editor beenden willst?</string>
+    <string name="editor_are_you_sure_clear">Bist du sicher, dass du den gesamten Inhalt löschen willst?</string>
+
+    <string name="dialog_import_data">Daten werden importiert, bitte warten...</string>
+
+    <!-- Settings -->
+    <string name="settings_backup">Backup</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_layout_primary">Hauptfarbe</string>
+    <string name="settings_layout_background">Hintergrundfarbe</string>
+    <string name="settings_layout_accent">Nebenfarbe</string>
+    <string name="settings_notifications">Benachrichtigungen</string>
+    <string name="settings_notifications_chat">Chat benachrichtigungen</string>
+
+    <string name="settings_backupToFileTextView">In Backup-Datei speichern</string>
+    <string name="settings_backupToFileButton">Exportieren</string>
+    <string name="settings_backupFromFileTextView">Lade Backup-Datei</string>
+    <string name="settings_backupFromFileButton">Importieren</string>
+    <string name="settings_backupAuto_text">Automatisches Backup in die letze bekannte Backup-Datei</string>
+    <string name="settings_privacy_policy">Datenschutzbestimmungen</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_camera">Zugriff auf die Kamera wird benötigt.</string>
+    <string name="permission_denied">Bitte gestatte den Zugriff und versuche es noch einmal.</string> <!-- If the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'. -->
+    <string name="permission_required_toast">Zugriff wird benötigt.</string>
+
+    <!-- Scanner -->
+    <string name="scan_flashlight">Drücke Lautstärke hoch/runter um die Taschenlampe zu aktivieren.</string>
+
+    <!-- Moon calendar -->
+    <string name="before_2001">Ich kann dir leider keinen Kalender vor 1923 zeigen.</string>
+    <string name="month_year_format">MMMM yyyy</string>
+    <string name="month_year_skelton">yyyyMMMM</string>
+    <string name="data_import">Buch importieren</string>
+    <string name="data_export">Buch exportieren</string>
+    <string name="Scroll">Scrollen</string>
+</resources>

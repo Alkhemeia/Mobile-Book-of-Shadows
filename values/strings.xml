@@ -1,0 +1,236 @@
+<resources>
+    <string name="app_name">Mobile Book of Shadows</string>
+
+    <string name="coven_none" translatable="false">#wild</string>
+    <string name="coven_default_logo_url" translatable="false"></string>
+
+    <string name="beta_dialog_title">Info</string>
+    <string name="beta_participate">Participate in the beta program</string>
+    <string name="beta_dialog_text">Caution! The beta version increases the likelihood of bugs. If you want to participate in the beta program, make sure your book backup is always up to date.</string>
+    <string name="coven_join_code_info">Coven access code</string>
+
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Back">Back</string>
+    <string name="Choose">Choose</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Page">Page</string>
+    <string name="Save">Save</string>
+    <string name="Restart">Restart</string>
+    <string name="Ban">Ban</string>
+    <string name="Unban">Unban</string>
+    <string name="Remove">Remove</string>
+    <string name="Promote">Promote</string>
+    <string name="Demote">Demote</string>
+    <string name="Rank">Rank</string>
+    <string name="Administrator">Administrator</string>
+    <string name="Moderator">Moderator</string>
+    <string name="User">User</string>
+    <string name="Chat">Chat</string>
+    <string name="Blacklist">Blacklist</string>
+    <string name="Share">Share</string>
+    <string name="Profile">Profile</string>
+    <string name="Edit">Edit</string>
+    <string name="Member">Member</string>
+    <string name="Settings">Settings</string>
+    <string name="Coven">Coven</string>
+    <string name="Covens">Covens</string>
+    <string name="enabled">enabled</string>
+    <string name="disabled">disabled</string>
+    <string name="Layout">Layout</string>
+    <string name="Print">Print</string>
+    <string name="Founder">Founder</string>
+    <string name="Support">Support</string>
+    <string name="Contents">Contents</string>
+
+    <string name="empty_title">Empty title</string>
+    <string name="all_covens">All Covens</string>
+    <string name="comming_soon">Comming soon</string>
+    <string name="please_wait">Please wait</string>
+    <string name="add_page">Add page...</string>
+    <string name="loading_data">Loading data, please wait...</string>
+    <string name="show_join_code">Have this code scanned by the person you want to add to your coven</string>
+
+    <string name="coven_settings">Coven settings</string>
+    <string name="coven_settings_who_can_invite">Which user group can invite new members</string>
+
+    <!-- Helper -->
+    <string name="alert_image_content_description">Alert Image</string>
+
+    <!-- Notifications -->
+    <string name="notification_samhain_title">Samhain is near!</string>
+    <string name="notification_samhain_text">Date: October 31 or 11 new moon to Yule</string>
+
+    <string name="notification_jul_title">Yule</string>
+    <string name="notification_jul_text">Today is Yule!</string>
+
+    <string name="notification_imbolc_title">Imbolc is near!</string>
+    <string name="notification_imbolc_text">Date: February 1st or 2nd waxing crescent to Yule</string>
+
+    <string name="notification_ostara_title">Ostara</string>
+    <string name="notification_ostara_text">Today is Ostara!</string>
+
+    <string name="notification_beltane_title">Beltane is near!</string>
+    <string name="notification_beltane_text">Date: April 30th or 6th full moon to Yule</string>
+
+    <string name="notification_litha_title">Litha</string>
+    <string name="notification_litha_text">Today is Litha!</string>
+
+    <string name="notification_lughnasadh_title">Lughnasadh is near!</string>
+    <string name="notification_lughnasadh_text">Date: August 2nd or 8th increasing crescent to Yule</string>
+
+    <string name="notification_mabon_title">Mabon</string>
+    <string name="notification_mabon_text">Today is Mabon!</string>
+
+    <string name="notification_fullmoon_title">Full Moon!</string>
+    <string name="notification_fullmoon_text">Today is a full moon</string>
+    <string name="notification_newmoon_title">New Moon!</string>
+    <string name="notification_newmoon_text">Today is new moon</string>
+    <string name="notification_chat_new_title">"New Messages</string>
+    <string name="notification_chat_new_text">There are new messages from your coven</string>
+
+    <string name="dialog_new_failed">Message could not be transmitted.</string>
+    <string name="insert_coven_logo_url">Insert coven logo url</string>
+    <string name="upload_image_link_text">Upload logo on imgbb.com</string>
+
+    <string name="toast_auto_backup_done">Changes have been saved in backup file</string>
+    <string name="toast_auto_backup_failed">Automatic backup to file failed, please backup manually</string>
+
+    <string name="chat_banned_title">BANNED!</string>
+    <string name="chat_banned_text">You have been banned from chat.</string>
+    <string name="chat_loading_text">Loading...</string>
+    <string name="chat_message_sent">Message sent!</string>
+    <string name="chat_message_to_long">Message to long</string>
+    <string name="chat_message_copied_to_clipboard">Message copied to clipboard</string>
+
+    <string name="chatname_public">Wilderness</string>
+    <string name="chatname_unknown">Ronin Chat</string>
+
+    <string name="set_page_name">Set page name</string>
+
+    <string name="set_witch_name">Set witch name</string>
+    <string name="unknown_witch">unknown witch</string>
+
+    <string name="insert_image_link">Insert image link</string>
+    <string name="insert_hyperlink_text">Insert link text</string>
+    <string name="insert_hyperlink_url">Insert link url</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_url">Youtube URL</string>
+
+
+    <string name="share_title">Book of Shadows</string>
+    <string name="share_text">Get the Book of Shadows on Google Play Store and join my coven: https://play.google.com/store/apps/details?id=de.alkhemeia.bookofshadows</string>
+
+    <string name="editor_first_upload_image_title">Warning!</string>
+    <string name="editor_first_upload_image_text">Images are not saved in the backup, please save your images manually.</string>
+
+    <string name="billing_purchase_choose_price">Choose your price, disable ads and support the persistence of Book of Shadows.</string>
+
+    <string name="support_info">Please choose your email app after clicking the send button</string>
+    <string name="support_text_top">Is there a problem, have you found a bug or have a suggestion for improvement? Please tell me what is bothering you and I will try to solve the problem as best I can.\n\nEvery optimization is a good change and worth working on!</string>
+    <string name="support_message_forwarded">Message forwarded to email program. Thank you!</string>
+
+    <!-- popups -->
+    <string name="popup_contents">Contents</string>
+    <string name="popup_page_add">Add Page</string>
+    <string name="popup_page_move">Move Page</string>
+    <string name="popup_page_import">Import Page</string>
+    <string name="popup_page_send">Send Page</string>
+    <string name="popup_print">Print Page</string>
+    <string name="popup_coven">Coven</string>
+    <string name="popup_coven_chat">Coven Chat</string>
+    <string name="popup_public_chat">Global Chat</string>
+
+    <!-- editor -->
+    <string name="hint_headline">Headline</string>
+    <string name="textSize">Text size</string>
+    <string name="textColor">Text color</string>
+    <string name="textBold">Text bold</string>
+    <string name="textItalic">Text italic</string>
+    <string name="textStrike">Text strike</string>
+    <string name="textAlign">Text align</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="ImageUpload">Upload image</string>
+    <string name="videoUpload">Upload video</string>
+
+    <!-- alkhemeia.utils -->
+    <string name="alkhemeia_utils_account_sign_in_with_google_text">TODO: Sign in text</string>
+    <string name="alkhemeia_utils_account_sign_in_with_google_button">Sign in with Google</string>
+    <string name="alkhemeia_utils_ads_please_wait">Please wait one moment</string>
+    <string name="alkhemeia_utils_billing_purchase_ads_title">Disable ads</string>
+    <string name="alkhemeia_utils_billing_no_ads_description">Get rid of annoying ads and enjoy the full load of magic.</string>
+    <string name="alkhemeia_utils_billing_disable_ads">Disable ads</string>
+    <string name="alkhemeia_utils_billing_per_month">per month</string>
+    <string name="alkhemeia_utils_billing_purchase_success">Purchase successful, thank you!</string>
+    <string name="alkhemeia_utils_billing_purchase_canceled">Purchase canceled.</string>
+    <string name="alkhemeia_utils_billing_purchase_error">Something went wrong :/</string>
+    <!-- ............... -->
+
+    <string name="profile_create_title">Connect Google Account</string>
+    <string name="profile_create_text">Connect google account to use full book features?</string>
+    <string name="profile_no_member">You are not member of a coven.</string>
+    <string name="profile_coven_join">Join Coven</string>
+    <string name="coven_create">Create Coven</string>
+    <string name="coven_invalid_name">Invalid coven name</string>
+    <string name="profile_coven_create_hint">Enter coven name</string>
+    <string name="profile_coven_name_edit">Edit coven name</string>
+    <string name="profile_coven_name_edit_hint">Enter coven name</string>
+    <string name="profile_coven_join_code">Invite</string>
+    <string name="profile_coven_not_found">Could not find coven</string>
+    <string name="profile_leave_coven">Leave coven</string>
+    <string name="profile_are_you_sure_leave">Are you sure you want to leave your coven?</string>
+    <string name="profile_to_admin">to admin</string>
+    <string name="profile_to_moderator">to moderator</string>
+    <string name="profile_to_user">to user</string>
+    <string name="choose_email">Choose E-Mail</string>
+    <string name="support_ticket_subject_prefix">Support Ticket:</string>
+    <string name="signed_out_user">signed out user</string>
+
+    <string name="blacklist_remove">Remove from blacklist?</string>
+    <string name="blacklist_from_blacklist">from blacklist?</string>
+
+    <string name="please_restart_app">Please restart the app.</string>
+
+    <string name="book_move_page">Move page to</string>
+
+    <string name="editor_exit">Exit Editor?</string>
+    <string name="editor_clear">Clear Editor?</string>
+    <string name="editor_are_you_sure_exit">Are you sure you want to exit the editor?</string>
+    <string name="editor_are_you_sure_clear">Are you sure you want to clear editor content?</string>
+
+    <string name="dialog_import_data">Import data, please wait...</string>
+
+    <!-- Settings -->
+    <string name="settings_backup">Backup</string>
+    <string name="settings_layout">Layout</string>
+    <string name="settings_layout_primary">Primary color</string>
+    <string name="settings_layout_background">Background color</string>
+    <string name="settings_layout_accent">Accent color</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notifications_chat">Chat notifications</string>
+
+    <string name="settings_backupToFileTextView">Save backup to file</string>
+    <string name="settings_backupToFileButton">Export</string>
+    <string name="settings_backupFromFileTextView">Load backup from file</string>
+    <string name="settings_backupFromFileButton">Import</string>
+    <string name="settings_backupAuto_text">Automatic backup to last backup file</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_camera">Access to camera is required.</string>
+    <string name="permission_denied">Please grant permission and try again.</string> <!-- If the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'. -->
+    <string name="permission_required_toast">Permission is required.</string>
+
+    <!-- Scanner -->
+    <string name="scan_flashlight">Press volume up/down to control flashlight.</string>
+
+    <!-- Moon calendar -->
+    <string name="before_2001">Cannot show you calendars before 1923</string>
+    <string name="month_year_format">MMMM yyyy</string>
+    <string name="month_year_skelton">yyyyMMMM</string>
+    <string name="data_import">Import book</string>
+    <string name="data_export">Export book</string>
+    <string name="Scroll">Scroll</string>
+</resources>
