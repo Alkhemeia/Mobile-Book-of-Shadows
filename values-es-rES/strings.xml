@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="app_name">Mobile Book of Shadows</string>
+<resources>
+    <string name="app_name">Mobile Book of Shadows</string>
 
     <string name="beta_dialog_title">Info</string>
     <string name="beta_participate">Participate in the beta program</string>
@@ -41,7 +42,7 @@
     <string name="Support">Support</string>
     <string name="Contents">Contents</string>
 
-    <string name="empty_title">Empty title</string>
+    <string name="empty_page">Empty page</string>
     <string name="all_covens">All Covens</string>
     <string name="comming_soon">Comming soon</string>
     <string name="please_wait">Please wait</string>

@@ -2,8 +2,6 @@
 <resources>
     <string name="app_name">Buch der Schatten</string>
 
-    <string name="coven_default_logo_url"></string>
-
     <string name="beta_dialog_title">Info</string>
     <string name="beta_participate">Nimm am Beta-Programm teil</string>
     <string name="beta_dialog_text">Vorsicht! Die Beta-Version erhöht die Wahrscheinlichkeit von Fehlern. Wenn Du am Beta-Programm teilnimmst, stelle sicher, dass Dein Buch-Backup immer auf dem neuesten Stand ist.</string>
@@ -36,15 +34,15 @@
     <string name="Settings">Einstellungen</string>
     <string name="Coven">Zirkel</string>
     <string name="Covens">Zirkel</string>
-    <string name="enabled">einschalten</string>
-    <string name="disabled">ausschalten</string>
+    <string name="enabled">ausschalten</string> <!-- trust me -->
+    <string name="disabled">einschalten</string> <!-- trust me -->
     <string name="Layout">Layout</string>
     <string name="Print">Drucken</string>
     <string name="Founder">Gründer</string>
     <string name="Support">Support</string>
     <string name="Contents">Inhaltsverzeichnis</string>
 
-    <string name="empty_title">Ohne Überschrift</string>
+    <string name="empty_page">Leere Seite</string>
     <string name="all_covens">Alle Zirkel</string>
     <string name="comming_soon">Kommt demnächst</string>
     <string name="please_wait">Bitte warten</string>
